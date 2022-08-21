@@ -1,6 +1,6 @@
-// Data Types (String, Number, Boolean, Null, Undefined, Array, Object, Function)
+// *** Data Types (String, Number, Boolean, Null, Undefined, Array, Object, Function) ***
 
-// Alert & Prompt, Concatenation, Slice method
+// *** Alert & Prompt, Concatenation, Slice method ***
 // ------------------------------------------------------------
 
 //let tweet = prompt("input text here, max 140 char!");
@@ -10,8 +10,8 @@
 //let textSlice = tweet.slice(0,140);
 // alert(textSlice);
 
-// toUpperCase() & toLowerCase()
 // ------------------------------------------------------------
+// *** toUpperCase() & toLowerCase() ***
 
 // let yourName = prompt("What is your name?");
 
@@ -24,7 +24,6 @@
 // let assemble = nameInUpperCase + nameInLowerCase;
 // alert("Hello " + assemble);
 
-// 
 // ------------------------------------------------------------
 
 // let dogAge = prompt("Input your dog age!");
@@ -38,6 +37,5 @@
 // let y = x++;
 // // y += 1;
 // y
-
 
 // ------------------------------------------------------------
