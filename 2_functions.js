@@ -1,7 +1,4 @@
-// Data Types (String, Number, Boolean, Null, Undefined, Array, Object, Function)
-
-// ------------------------------------------------------------
-// Functions
+// *** Functions ***
 
 // function fungsiSatu(a, b) {
 //     return a + b;
@@ -15,7 +12,7 @@
 // console.log(fungsiDua(5, 3));
 
 // ------------------------------------------------------------
-// Run Down number (Math.floor()), return
+// *** Run Down number (Math.floor()), return ***
 
 // function getMilk(money) {   
 //     let milkCost = 1.5;
@@ -97,3 +94,6 @@ var bmi = bmiCalculator(65, 1.8);
 bmi should equal 20 when it's rounded to the nearest whole number.
 
 */
+
+// ------------------------------------------------------------
+
