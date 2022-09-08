@@ -4,7 +4,7 @@
 // *** Get a random number (Math.random()) ***
 
 // let n = Math.random();
-// // n = n * 6;
+// n = n * 6;
 // n = Math.floor(n * 6) + 1;
 // n
 
